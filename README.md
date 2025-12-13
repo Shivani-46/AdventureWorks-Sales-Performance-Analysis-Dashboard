@@ -41,7 +41,7 @@ To analyze AdventureWorks sales data to understand revenue trends, identify top-
 <a href="https://github.com/Shivani-46/AdventureWorks-Sales-Performance-Analysis-Dashboard/blob/main/Category%20Tooltip.png">View Dashboard</a>
 
 ## Dashboard 
-#Executive Dashboard
+# Executive Dashboard
 <img width="1421" height="800" alt="Executive dashboard" src="https://github.com/user-attachments/assets/598306a7-d5e4-47c7-864b-f54961d44124" />
 # Maps
 <img width="1417" height="790" alt="maps" src="https://github.com/user-attachments/assets/1a7bccdb-883e-45dc-80fd-a66eff490f5c" />
