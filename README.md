@@ -40,16 +40,16 @@ To analyze AdventureWorks sales data to understand revenue trends, identify top-
 <a href="https://github.com/Shivani-46/AdventureWorks-Sales-Performance-Analysis-Dashboard/blob/main/Customer%20Details.png">View Dashboard</a>
 <a href="https://github.com/Shivani-46/AdventureWorks-Sales-Performance-Analysis-Dashboard/blob/main/Category%20Tooltip.png">View Dashboard</a>
 
-## Dashboard 
-# Executive Dashboard
+# Dashboard 
+## Executive Dashboard
 <img width="1421" height="800" alt="Executive dashboard" src="https://github.com/user-attachments/assets/598306a7-d5e4-47c7-864b-f54961d44124" />
-# Maps
+## Maps
 <img width="1417" height="790" alt="maps" src="https://github.com/user-attachments/assets/1a7bccdb-883e-45dc-80fd-a66eff490f5c" />
-# Product Details
+## Product Details
 <img width="1417" height="794" alt="Product Details" src="https://github.com/user-attachments/assets/8dc293e3-0257-4f8d-811a-0d321c2c6e71" />
-# Customer Details
+## Customer Details
 <img width="1421" height="797" alt="Customer Details" src="https://github.com/user-attachments/assets/e91a912b-8b4a-4410-a829-04c91711827a" />
-# Category Tooltip
+## Category Tooltip
 <img width="814" height="639" alt="Category Tooltip" src="https://github.com/user-attachments/assets/bda4979d-2820-4f7a-abef-253912414d1e" />
 
 
