@@ -52,6 +52,16 @@ To analyze AdventureWorks sales data to understand revenue trends, identify top-
 ## Category Tooltip
 <img width="814" height="639" alt="Category Tooltip" src="https://github.com/user-attachments/assets/bda4979d-2820-4f7a-abef-253912414d1e" />
 
+## Project Insight
+-Sales show consistent growth over time with clear seasonal patterns.
+-A few product categories contribute the majority of total revenue.
+-Certain regions perform significantly better than others in sales and profit.
+-High sales volume does not always mean high profit, highlighting cost impact.
+
+## Final Conclusion
+The analysis identified top-performing products and regions driving overall revenue.It helped understand sales trends and profitability patterns for better decision-making.
+Insights from the dashboard can support strategic planning, inventory control, and targeted marketing.
+
 
 
 
